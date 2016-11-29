@@ -8,69 +8,69 @@ Battlefield 1 er ellefti Battlefield leikurinn. Battlefield 1 er fps eða first 
 Darksouls III er fjórði leikurinn er Souls seríunni en þriðji í Darksouls seríunni. Þetta er svokallaður hasar hlutverkjaleikur þar sem þú ert bara einn peróna í 3p. og ert að gera hana betri með því að velja á milli hæfileika þegar þú færð level up. Souls leikirnir eru aðalega þekktir fyrir textan "YOU DIED" sem kemur upp þegar þú deyrð vegna þess að maður mun deyja oft. Þetta er með erfiðustu leikjum sem hafa komið út sem hafa einnig náð að vera skemmtilegir. Margir hafa hætti að spila leikinn vegna þess að þeir ná bara ekki að vinna fyrsta borðið sem á að kenna þér á leikinn. Fromsoftware gerðu leikinn og var það Bandai Namco Entertainment sem gaf hann út. Leikurinn er enn verið að vinna í því að gera leikinn betri og gefa út DLC sem stendur fyrir Downloadable content sem spilendur geta keypt og fá þeir þá auka söguþráð til að spila í gegnum, það kom einmitt út fyrsta DLC fyrir darksouls III þann 25 október. Leikurinn gerist í heiminnum Lothric. Í byrjunn leiksins velur þú þér einn class af tíu mögulegum. Þú berst með því að nota sverð, galdra, spjót, rýting, exi, svipu, skyldi, boga og stafi, þannig að það ætti ekki að vera erftit að spila eins og þér líkar. Þegar þú ert að berjast þarftu að passa þig á því að fara frá eða verja þig með skyldinum þegar óvinir ætla að slá þig því annars muntu líklega deyja. Þeir sem ekki spila leikinn halda að þetta sé bara leikur þar sem þú hleypur um drepur skrímsli eða deyrð við það að reyna en það er svo mikið að gerast í heiminum og er söguþráður í þeim. Darksouls III fjallar um það að kallin sem þú spilar sem þarf að finna og skila fimm herrum Cinder aftur í hásætinn sín til að kveikja aftur á eld sem hefur verið slökkt á í mjög langan tíma. Söguþráðurinn er miklu dýpri en þetta og er hann ekki allur gefinn upp í leiknum heldur þarf spilandinn að kom upp með hugmyndir um hvað er að gerast inn á milli.
 
 #Kóði
-@-webkit-keyframes xfade {
-    0% {
-        opacity: 1;
-    }
-    16.5% {
-        opacity:1;
-    }
-    24.5% {
-        opacity:0;
-    }
-    96% {
-        opacity:0;
-    }
-    100% {
-        opacity:1;
-    }
-}
-@keyframes xfade {
-    0% {
-        opacity: 1;
-    }
-    16.5% {
-        opacity:1;
-    }
-    24.5% {
-        opacity:0;
+@-webkit-keyframes xfade {<br>
+    0% {<br>
+        opacity: 1;  
+    }  
+    16.5% {  
+        opacity:1;  
+    }  
+    24.5% {  
+        opacity:0;  
+    }  
+    96% {  
+        opacity:0;  
+    }  
+    100% {  
+        opacity:1;  
+    }  
+}  
+@keyframes xfade {  
+    0% {  
+        opacity: 1;  
+    }  
+    16.5% {  
+        opacity:1;  
+    }  
+    24.5% {  
+        opacity:0;  
     }
     91% {
         opacity:0;
-    }
-    100% {
-        opacity:1;
-    }
+    }  
+    100% {  
+        opacity:1;  
+    }  
+}  
+.container img:nth-child(8) {  
+    -webkit-animation: xfade 90s 0s infinite;  
+    animation: xfade 90s 0s infinite;  
+}  
+.container img:nth-child(7) {  
+    -webkit-animation: xfade 90s 15s infinite;  
+    animation: xfade 90s 15s infinite;  
+}  
+.container img:nth-child(6) {  
+    -webkit-animation: xfade 90s 30s infinite;  
+    animation: xfade 90s 30s infinite;  
+}  
+.container img:nth-child(5) {  
+    -webkit-animation: xfade 90s 45s infinite;  
+    animation: xfade 90s 45s infinite;  
 }
-.container img:nth-child(8) {
-    -webkit-animation: xfade 90s 0s infinite;
-    animation: xfade 90s 0s infinite;
+.container img:nth-child(4) {  
+    -webkit-animation: xfade 90s 60s infinite;  
+    animation: xfade 90s 60s infinite;  
+}  
+.container img:nth-child(3) {  
+    -webkit-animation: xfade 90s 75s infinite;  
+    animation: xfade 90s 75s infinite;  
+}  
+.container img:nth-child(2) {  
+    -webkit-animation: xfade 120s 90s infinite;  
+    animation: xfade 90s 90s infinite;  
 }
-.container img:nth-child(7) {
-    -webkit-animation: xfade 90s 15s infinite;
-    animation: xfade 90s 15s infinite;
-}
-.container img:nth-child(6) {
-    -webkit-animation: xfade 90s 30s infinite;
-    animation: xfade 90s 30s infinite;
-}
-.container img:nth-child(5) {
-    -webkit-animation: xfade 90s 45s infinite;
-    animation: xfade 90s 45s infinite;
-}
-.container img:nth-child(4) {
-    -webkit-animation: xfade 90s 60s infinite;
-    animation: xfade 90s 60s infinite;
-}
-.container img:nth-child(3) {
-    -webkit-animation: xfade 90s 75s infinite;
-    animation: xfade 90s 75s infinite;
-}
-.container img:nth-child(2) {
-    -webkit-animation: xfade 120s 90s infinite;
-    animation: xfade 90s 90s infinite;
-}
-.container img:nth-child(1) {
+.container img:nth-child(1) {  
     -webkit-animation: xfade 120s 105s infinite;
-    animation: xfade 90s 105s infinite;
-}
+    animation: xfade 90s 105s infinite;  
+}  
